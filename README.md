@@ -21,6 +21,9 @@
 ![Demo](./public/1.png)
 ![Demo](./public/2.png)
 ![Demo](./public/3.png)
+![Demo](./public/4.png)
+![Demo](./public/5.png)
+![Demo](./public/6.png)
 
 ✅ 𝗘𝗻ᒍ𝝾𝝲! 𝗳𝝾𝗿 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 
 <br/>
