@@ -1,0 +1,119 @@
+# --------------------------
+# Node.js / npm / Yarn
+# --------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --------------------------
+# Build outputs
+# --------------------------
+dist/
+build/
+.out/
+.next/
+.cache/
+.tmp/
+.temp/
+coverage/
+.vite/
+
+# --------------------------
+# Environment variables
+# --------------------------
+.env
+.env.*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --------------------------
+# System files
+# --------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# --------------------------
+# VS Code
+# --------------------------
+.vscode/
+.history/
+
+# --------------------------
+# Logs
+# --------------------------
+logs/
+*.log
+*.log.*
+
+# --------------------------
+# OS or editor swap/lock files
+# --------------------------
+*.swp
+*.swo
+*~
+*.bak
+
+# --------------------------
+# Optional: Test snapshots
+# --------------------------
+__snapshots__/
+*.snap
+
+# --------------------------
+# Optional: MongoDB dump
+# --------------------------
+dump/
+
+# --------------------------
+# Optional: JetBrains IDEs
+# --------------------------
+.idea/
+
+# --------------------------
+# Optional: Mac folder attributes
+# --------------------------
+.AppleDouble
+.LSOverride
+
+# --------------------------
+# Optional: React Native
+# --------------------------
+ios/Pods/
+android/.gradle/
+android/app/build/
+
+# --------------------------
+# Optional: TypeScript
+# --------------------------
+*.tsbuildinfo
+
+# --------------------------
+# Optional: SASS / SCSS cache
+# --------------------------
+.sass-cache/
+
+# --------------------------
+# Optional: ESLint & Prettier
+# --------------------------
+.eslintcache
+
+# --------------------------
+# Optional: Next.js output
+# --------------------------
+.next/
+out/
+
+# --------------------------
+# Optional: Firebase
+# --------------------------
+.firebase/
+.firebaserc
+
+note.md
